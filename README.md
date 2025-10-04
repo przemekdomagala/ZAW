@@ -53,7 +53,3 @@ Processing and visualization of event camera data streams.
 ## Usage
 
 Each project folder contains Jupyter notebooks or Python scripts that can be run independently. See the individual project README files for specific usage instructions.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
