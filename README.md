@@ -18,15 +18,15 @@ A collection of computer vision and image processing exercises and a final proje
 
 ## Topics Covered
 
-- **Feature detection and matching** — Harris corners, ORB descriptors
-- **Classical tracking** — Discriminative Correlation Filters
-- **Visual odometry** — camera pose estimation from image sequences
-- **Shape detection** — Generalized Hough Transform
-- **Multi-modal detection** — RGB-thermal image fusion
-- **Machine learning detection** — HOG + SVM with sliding windows and pyramid search
-- **Deep learning tracking** — Siamese network architecture
-- **Neuromorphic vision** — event camera data processing
-- **Anomaly detection** — autoencoder-based surface defect localization
+- **Feature detection and matching** - Harris corners, ORB descriptors
+- **Classical tracking** - Discriminative Correlation Filters
+- **Visual odometry** - camera pose estimation from image sequences
+- **Shape detection** - Generalized Hough Transform
+- **Multi-modal detection** - RGB-thermal image fusion
+- **Machine learning detection** - HOG + SVM with sliding windows and pyramid search
+- **Deep learning tracking** - Siamese network architecture
+- **Neuromorphic vision** - event camera data processing
+- **Anomaly detection** - autoencoder-based surface defect localization
 
 ## Requirements
 
